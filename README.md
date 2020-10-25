@@ -27,11 +27,13 @@ $ python3 denoiser.py <video file>
 # How it works
 
 Reads an input file, extracts the audio as wav with ffmpeg and grabs as 'noise' the first non-zero audio that is not
-"too" loud.
+"too" loud.  
 The noise is then passed to nox to generate a profile, and later user that profile to remove the noise from the original
-audio.
+audio.  
 The clean audio is then put back together with the video, on a newly-created file, named `denoised-<original filename>`
 
+
+On noise-reduction:
 
 from `man sox`:
 
