@@ -1,0 +1,4 @@
+*.prof
+*.wav
+*.mp4
+.venv
