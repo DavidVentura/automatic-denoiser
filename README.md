@@ -4,11 +4,11 @@ This script removes background noise from video files.
 
 This is custom built specifically to denoise the [Category Theory for Programmers](https://www.youtube.com/watch?v=O2lZkr-aAqk&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_&index=3) playlist.
 
-Example input: <a href="examples/input.mp3">audio file</a>
+Example input: <a href="https://raw.githubusercontent.com/DavidVentura/automatic-denoiser/master/examples/input.mp3" target="_blank">audio file</a>
 
-Example output: <a href="examples/output.mp3">audio file</a>
+Example output: <a href="https://raw.githubusercontent.com/DavidVentura/automatic-denoiser/master/examples/output.mp3" target="_blank">audio file</a>
 
-Example noise: <a href="examples/noise.mp3">audio file</a>
+Example noise: <a href="https://raw.githubusercontent.com/DavidVentura/automatic-denoiser/master/examples/noise.mp3" target="_blank">audio file</a>
 
 
 # Usage
